@@ -1,0 +1,7 @@
+Name faizan ghani
+age   twenty five
+contact xxxxxxx
+address xxxxxxx
+hobies playing cricket
+reading books
+watching movies
